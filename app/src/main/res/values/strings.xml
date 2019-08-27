@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StateFlow</string>
+    <string name="MACAddr_default">20:19:05:10:03:99</string>
+    <string name="notice">注意：此蓝牙MAC地址为HRT_19D上HC05 MAC地址，要扩展其它模块修改对应的MAC地址即可</string>
+</resources>
